@@ -1,0 +1,77 @@
+body{
+background-color: #fff86e;
+}
+
+.header{
+  font-family: century gothic;
+  font-size: 80px;
+  margin: 0;
+
+}
+
+.head{
+  font-family: century gothic;
+    font-size: 20px;
+}
+
+.top{
+    background-color: #ebe46c;
+    padding: 10px;
+    margin: 0;
+}
+
+.main{
+  display: flex;
+  flex-flow: row;
+  margin: 0 auto;
+  padding: 20px;
+  justify-content: space-between;
+}
+
+
+.firth{
+  background-color: #ded03a;
+  border-radius: 10px;
+  margin: 10px
+}
+
+.textme{
+  margin: 5px;
+}
+
+.topma{
+  font-size: 70px;
+  display: flex;
+  justify-content: space-around;
+}
+
+
+.blok1{
+  flex-flow: row;
+}
+
+.card1{
+  padding: 0px;
+}
+
+.card2{
+  padding: 0px;
+}
+
+.card3{
+  padding: 0px;
+}
+
+footer{
+  font-family:  franklin gothic medium;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  padding: 0px;
+}
+
+.footer{
+  padding: 0px;
+  margin-top: 30px;
+
+}
